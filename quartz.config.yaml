@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: PhantomNexus7.github.io/applesauce
+  baseUrl: PhantomNexus7.github.io/valencaine
   ignorePatterns:
     - private
     - templates
