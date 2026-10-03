@@ -1,4 +1,4 @@
 ---
 title: Home
 ---
-Welcome to my digital garden!
+Welcome to the Valencaine Wiki!
