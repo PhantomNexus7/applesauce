@@ -1,3 +1,8 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+@media all and (min-width: 1200px) {
+  .page .center {
+    margin-left: 4rem; /* Adjust this value to shift it more or less to the right */
+  }
+}
