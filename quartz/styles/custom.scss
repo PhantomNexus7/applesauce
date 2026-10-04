@@ -1,8 +1,11 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-@media all and (min-width: 1200px) {
-  .page {
-    margin-left: 10rem; /* Shifters everything (Title, Explorer, Article) to the right */
-  }
+.page {
+  margin-left: 10rem;
+  margin-right: 0;
+  
+  // Optional: Ensures flex child nodes also align towards the right side
+  display: flex;
+  justify-content: flex-end; 
 }
