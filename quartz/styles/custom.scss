@@ -2,14 +2,7 @@
 
 // put your custom CSS here!
 @media all and (min-width: 1200px) {
-  .page .center {
+  .page {
     margin-left: 10rem; /* Shifters everything (Title, Explorer, Article) to the right */
-  }
-}
-
-@media all and (min-width: 1200px) {
-  // Shifts the Page Title and Explorer Tree
-  .page .sidebar.left {
-    padding-left: 8rem; 
   }
 }
