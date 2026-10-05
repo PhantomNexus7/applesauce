@@ -1,41 +1,41 @@
 ---
 publish: true
 created: 2026-10-03T23:23:49.314Z
-modified: 2026-10-05T04:32:15.649Z
+modified: 2026-10-05T04:36:16.445Z
 ---
 
 # BIOGRAPHICAL INFORMATION
 
-**NAME:** Kyros Xeres
+**NAME:** Kyros Xeres\
 **ALIAS(ES):** Ace of Hearts (by Telethana) The Unlucky One (Thanatos) "That One" (Joker)
 
 # PERSONAL DESCRIPTION
 
-**SPECIES:** Lorsan (Formerly) Tiefling (Currently)
-**BIRTHDAY:** Tisairo 23rd, XXXX
-**BIRTHPLACE:** L'chrys, Lordranno Telethana, Hells (via Rebirth)
-**AGE:** 358
-**GENDER:** Male (He/Him)
-**HEIGHT:** 192cm (~6'3")
-**WEIGHT:** 90.7kg (~200lbs)
-**HAIR COLOR:** Black
+**SPECIES:** Lorsan (Formerly) Tiefling (Currently)\
+**BIRTHDAY:** Tisairo 23rd, XXXX\
+**BIRTHPLACE:** L'chrys, Lordranno Telethana, Hells (via Rebirth)\
+**AGE:** 358\
+**GENDER:** Male (He/Him)\
+**HEIGHT:** 192cm (~6'3")\
+**WEIGHT:** 90.7kg (~200lbs)\
+**HAIR COLOR:** Black\
 **EYE COLOR:** Gold
 
 # PROFESSIONAL STATUS
 
-**STATUS:** Alive (Formerly Dead) (Formerly Alive)
-**RELATIVES:** Unknown
-**OCCUPATION:** Casino Owner (Formerly) Telethana Army Adventurer Mercenary **AFFILIATION(S):** Golden Eye Casino (Formerly) Thanatos Telethana, Hearts Quadrant Sleeping Wyvern & Companions
+**STATUS:** Alive (Formerly Dead) (Formerly Alive)\
+**RELATIVES:** Unknown\
+**OCCUPATION:** Casino Owner (Formerly) Telethana Army Adventurer Mercenary **AFFILIATION(S):**  Golden Eye Casino (Formerly) Thanatos Telethana, Hearts Quadrant Sleeping Wyvern &  Companions
 
 # DND INFORMATION
 
-**CLASS:** Illrigger
-**SUBCLASS:** Architect of Ruin
-**LEVEL:** 12
-**PLACE IN PARTY:**
-Face
-Frontliner
-Burst Damage Dealer
+**CLASS:** Illrigger\
+**SUBCLASS:** Architect of Ruin\
+**LEVEL:** 12\
+**PLACE IN PARTY:**\
+Face\
+Frontliner\
+Burst Damage Dealer\
 Gambler
 
 # APPEARANCE
@@ -51,22 +51,27 @@ Kyros describes himself as incredibly charismatic, empathetic, and willing to go
 
 # ABILITIES AND POWERS
 
-**Overall Skill Level:** • Kyros, being an Ace, holds one of the higher positions that a regular Telethanian Knight could reasonably achieve. His unique usage of Offensive Magics to better weaponize his martial skills makes a disastrously deadly combo, especially when taking into consideration his proficiency with the Telethanian Army's signature power, \[Bane Seals]. Each Quadrant of the Army has a different usage of the Bane Seals, Kyros' was taught to use his as a means to boost his rather weak magical capabilities. **Physical Prowess:** • Kyros is physically incredibly weak, and is reliant on his pitiful magic, smooth talking, and magical weapons to get through combat situations. • What he lacks in pure strength, he makes up for in constitution. He (probably) has the highest HP pool of the party with several methods to regenerate if the situation required it. • Kyros does have a profound proficiency with longswords, to the point he doesn't need to carry a shield to gain the power of defense. (Although in reality this is due to his \[Sigil of Bravado] that was granted to him when becoming an Ace, granting him charismatic defenses.)
+**Overall Skill Level:**\
+• Kyros, being an Ace, holds one of the higher positions that a regular Telethanian Knight could reasonably achieve. His unique usage of Offensive Magics to better weaponize his martial skills makes a disastrously deadly combo, especially when taking into consideration his proficiency with the Telethanian Army's signature power, \[Bane Seals]. Each Quadrant of the Army has a different usage of the Bane Seals, Kyros' was taught to use his as a means to boost his rather weak magical capabilities.\
+**Physical Prowess:**\
+• Kyros is physically incredibly weak, and is reliant on his pitiful magic, smooth talking, and magical weapons to get through combat situations.\
+• What he lacks in pure strength, he makes up for in constitution. He (probably) has the highest HP pool of the party with several methods to regenerate if the situation required it.\
+• Kyros does have a profound proficiency with longswords, to the point he doesn't need to carry a shield to gain the power of defense. (Although in reality this is due to his \[Sigil of Bravado] that was granted to him when becoming an Ace, granting him charismatic defenses.)
 
 # EQUIPMENT
 
-**Lucee**
-• A small maneki-cat statue that allows Kyros to activate his main gimmick, GAMBLING!!! Rolls 3d6, whatever the outcome of the dice rolls are means a good/bad effect happens to Kyros or people around him, get a Jackpot if all 3 numbers are the same. Can also act as a way to "call" his Bosses by flipping the coin onto the other side
-**"The Ace of Flaming Hearts"**
-• A Charisma Based +1 True Name Flame-Tongued Longsword which allows him to add a second seal on the roll of a 18, 19, or 20, and seals deal an additional 1d6 damage (4d6+5 per seal currently). Also on hit reduces Spell Attack Rolls by 2 and Spell Save DC by 1 (doesn't stack).
-**Cloak of Protection**
-• A normal cloak of protection, stylized to be the fur coat he wears
-**Ring of The Hellkeeper**
-• A ring that when attuned by an Illrigger allows them to regain a number of seals equal to half their proficiency bonus rounded down as a free action (1/Long Rest)
-**Devilspine Belt**
-• As a bonus action, you can unfurl the tailbone which is wrapped around the belt to act as a stinger. After the first successful attack you make against the target, the stinger attacks dealing 1d10+dexterity modifier piercing damage. This stinger attack applies an additional seal (2 per turn).
-**Necklace of Misty Step**
-• A golden chain around his neck, grants him the ability to cast Misty Step thrice per long rest. **Ring of Shapeshifting**
+**Lucee**\
+• A small maneki-cat statue that allows Kyros to activate his main gimmick, GAMBLING!!! Rolls 3d6, whatever the outcome of the dice rolls are means a good/bad effect happens to Kyros or people around him, get a Jackpot if all 3 numbers are the same. Can also act as a way to "call" his Bosses by flipping the coin onto the other side\
+**"The Ace of Flaming Hearts"**\
+• A Charisma Based +1 True Name Flame-Tongued Longsword which allows him to add a second seal on the roll of a 18, 19, or 20, and seals deal an additional 1d6 damage (4d6+5 per seal currently). Also on hit reduces Spell Attack Rolls by 2 and Spell Save DC by 1 (doesn't stack).\
+**Cloak of Protection**\
+• A normal cloak of protection, stylized to be the fur coat he wears\
+**Ring of The Hellkeeper**\
+• A ring that when attuned by an Illrigger allows them to regain a number of seals equal to half their proficiency bonus rounded down as a free action (1/Long Rest)\
+**Devilspine Belt**\
+• As a bonus action, you can unfurl the tailbone which is wrapped around the belt to act as a stinger. After the first successful attack you make against the target, the stinger attacks dealing 1d10+dexterity modifier piercing damage. This stinger attack applies an additional seal (2 per turn).\
+**Necklace of Misty Step**\
+• A golden chain around his neck, grants him the ability to cast Misty Step thrice per long rest.   **Ring of Shapeshifting**\
 • A golden ring encarved with runes and symbols, a large purple gem in the center. Grants Kyros the ability to alter his appearance (as per Disguise Self) once a day.
 
 # HISTORY
@@ -75,4 +80,7 @@ Kyros does not like to talk about his history.
 
 # TRIVIA AND FUN FACTS
 
-• His first name, Kyros, means Lord, Master, Sun, or Throne, which is an ironic twist on his fate as a footsoldier for a Demon God. • His last name, Xeres, comes from a type of white wine, which could have come from his families line of wine makers in L'chrys. • Kyros believes that one day he'll be able to kill Barnacle Boy for good. • Following the last fact, Kyros has several ideas on how to use Barnacle Boy as a suicide bomber.
+• His first name, Kyros, means Lord, Master, Sun, or Throne, which is an ironic twist on his fate as a footsoldier for a Demon God.\
+• His last name, Xeres, comes from a type of white wine, which could have come from his families line of wine makers in L'chrys.\
+• Kyros believes that one day he'll be able to kill Barnacle Boy for good.\
+• Following the last fact, Kyros has several ideas on how to use Barnacle Boy as a suicide bomber.
