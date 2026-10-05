@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-03T23:23:49.314Z
-modified: 2026-10-05T04:30:09.068Z
+modified: 2026-10-05T04:32:15.649Z
 ---
 
 # BIOGRAPHICAL INFORMATION
@@ -41,6 +41,7 @@ Gambler
 # APPEARANCE
 
 Kyros is a 6'3" Variant Tiefling with deep crimson skin that fades to a darker maroon towards his tail, with its ending being pitch black in color, though visible scars and chips are seen across the tail due to all the combats of the party. His hair is fluffy and unkempt, a side effect of his main provider of hair supplies (Elise) having left the party with little say, so he's just been roughing it. His hair is long, back often wrapped in a neat little bun while the front curls down to shoulder height. On either side of his hair sit his horns, deep purple and brimstony goat horns which curl in on themselves. His bright golden eyes, hidden behind a pair of darkened glasses to look like shades, match the adornment of golden jewelry on the rest of his face ears and hands. His face is bejeweled with markings and scars, some as fresh as joining the party, others markings he first gained as an Illrigger, one scar on the bridge of his nose when he broke up a fight between a very angry tiefling and a slot machine. He wears a low v-neck shirt, layered below his signature fur coat that looks like it's seen significantly better years. Through the shirt a large branded "T" is seen on his left pec, with small blotches of golden swirling within the red of his chest. Matching the shirt he wears a pair of regular looking black pants and shoes. Frequently found on his back is his sword, "The Ace of Flaming Hearts", a weapon he recently acquired and has gained a liking towards.
+
 ![[Pasted image 20261004232745.png|400]]
 _credits to @John Paladin for the awesome artwork!!!!! wholesome chungus 10000_
 
