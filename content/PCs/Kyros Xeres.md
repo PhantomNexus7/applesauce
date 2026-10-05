@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-03T23:23:49.314Z
-modified: 2026-10-05T04:36:16.445Z
+modified: 2026-10-05T04:37:46.076Z
 ---
 
 # BIOGRAPHICAL INFORMATION
@@ -71,7 +71,8 @@ Kyros describes himself as incredibly charismatic, empathetic, and willing to go
 **Devilspine Belt**\
 • As a bonus action, you can unfurl the tailbone which is wrapped around the belt to act as a stinger. After the first successful attack you make against the target, the stinger attacks dealing 1d10+dexterity modifier piercing damage. This stinger attack applies an additional seal (2 per turn).\
 **Necklace of Misty Step**\
-• A golden chain around his neck, grants him the ability to cast Misty Step thrice per long rest.   **Ring of Shapeshifting**\
+• A golden chain around his neck, grants him the ability to cast Misty Step thrice per long rest.\
+**Ring of Shapeshifting**\
 • A golden ring encarved with runes and symbols, a large purple gem in the center. Grants Kyros the ability to alter his appearance (as per Disguise Self) once a day.
 
 # HISTORY
